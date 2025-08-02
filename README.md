@@ -1,21 +1,33 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm JY Feng 😀👋
 
-📚 **Education**  
-- **Master of Engineering** in Software Engineering, Peking University (SoftMicro) · `202X-202X`  
-  - Research: [Briefly describe your thesis/focus, e.g., "AI-driven distributed systems optimization"]  
-- **Bachelor of Science** in Computer Science, Beijing University of Posts and Telecommunications · `201X-201X`  
-  - Key Courses: Algorithms, Operating Systems, Computer Networks  
+📚 **Education**
+- **M.Eng. in Electronic Information** (Expected 2026)  
+  Peking University (School of Software & Microelectronics) · 2025–Present
+- **B.Eng. in E-commerce Engineering**  
+  Beijing University of Posts and Telecommunications (BUPT) Joint Program with Queen Mary University of London · 2021–2025  
+  - **Minor**: Ye Peida Honors Class (Artificial Intelligence Track)  
 
-🔍 **Research Interests**  
-- Artificial Intelligence: Federated Learning, NLP  
-- Distributed Systems: Edge Computing, Performance Optimization  
-- [Add other interests, e.g., Cybersecurity, Blockchain]  
+🔍 **Research Interests**
+- **General Directions**: Large Language Models (LLMs), Multimodal Analysis, Computer Vision
+- **Specific Focus**:
+  - **Scene Graph Generation**:
+    ∙ Open-vocabulary relation prediction  
+    ∙ End-to-end generation frameworks  
+    ∙ Panoptic scene graph construction  
+  - **Image Segmentation**:
+    ∙ Open-vocabulary segmentation  
+    ∙ Segment Anything Model (SAM) extensions  
+  - **Graph Neural Networks**:
+    ∙ Multimodal graph representation learning
 
 💻 **Skills & Tools**  
-- **Languages**: Python, Java, C++, SQL  
-- **Frameworks**: PyTorch, TensorFlow, Spring Boot  
-- **DevOps**: Docker, Kubernetes, CI/CD  
-- **Others**: Git, LaTeX, AWS  
+- **Languages**: Python, C, Java, JavaScript, HTML/CSS, SQL  
+- **Frameworks**: PyTorch (Primary), PyTorch Geometric (PyG)  
+- **DevOps**: Git, Docker  
+- **Others**: LaTeX, VSCode, PyCharm, Jupyter
+
+📝 **Publications**  
+- *Currently learning the research process - Working on it!*
 
 🚀 **Projects**  
 1. **[Project Name](Link)**  
@@ -25,15 +37,12 @@
    - Description: [e.g., "NLP-based code generation tool"]  
 
 📫 **Contact**  
-- Email: [Your Email]  
-- LinkedIn: [Your Profile]  
-- Personal Website: [Optional]  
+- Email: 3220290532@qq.com 
 
-🌱 **Currently Learning**  
-- [New technology, e.g., "Rust for systems programming"]  
-- [Open-source contributions]  
-
-📊 **GitHub Stats**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)  
-
+🌱 **Self-Study Courses**  
+- **Stanford CS231n** (Computer Vision) [[Course](http://cs231n.stanford.edu/)]  
+- **Stanford CS224n** (NLP with Deep Learning) [[Course](http://web.stanford.edu/class/cs224n/)]  
+- **Stanford CS336** (Foundation Models) [[Course](http://web.stanford.edu/class/cs336/)]  
+- **Andrew Ng ML/DL** [[Machine Learning](https://www.coursera.org/learn/machine-learning)] | [[Deep Learning](https://www.coursera.org/specializations/deep-learning)]
+ 
 ✨ *"Stay hungry, stay foolish."*
