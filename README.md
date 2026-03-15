@@ -21,11 +21,14 @@ My research focuses on bridging the gap between perception and reasoning through
 
 ---
 ## 📜 Publications
-* **SGG-R³: Robust Relation Reconstruction for Scene Graph Generation** [**[arXiv:2603.xxxxx]**]((https://arxiv.org/abs/2603.07961) ---
+* **SGG-R³: From Next-Token Prediction to End-to-End Unbiased Scene Graph Generation**
+  [![arXiv](https://img.shields.io/badge/arXiv-2603.07961-B31B1B.svg)](https://arxiv.org/abs/2603.07961)
+  * *Keywords: Scene Graph Generation, MLLM, Reinforcement Learning.*
+  * *Brief: Proposed a structured reasoning framework for visual perception, significantly improving relationship detection through a two-stage training process involving CoT cold start and GSPO.*
 
 
 ## 📬 Connect with me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fengjy75@gmail.com)
 
 ---
 *"Leveraging Reinforcement Learning to empower the next generation of generalized AI."*
@@ -38,4 +41,4 @@ My research focuses on bridging the gap between perception and reasoning through
 [![GitHub Streak](https://streak-stats.demolab.com?user=tequila28&theme=dark)](https://git.io/streak-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tequila28&size_weight=0.5&count_weight=0.5)
