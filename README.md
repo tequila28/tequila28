@@ -14,7 +14,7 @@ My research focuses on bridging the gap between perception and reasoning through
 
 * **🔭 Current Focus:** In particular, I focus on utilizing **Reinforcement Learning** to build sustained generalization learning capabilities for **Large Language Models (LLMs)**.
 * **🌱 Active Exploration:**
-    * **Scene Graph Generation (SGG):** Advancing Panoptic Scene Graph generation through Relation Augmentation and Dual-Granularity Rewards.
+    * **Scene Graph Generation:** Advancing end-to-end scene graph generation through post-training MLLMs.
     * **Multimodal LLMs:** Optimizing MLLMs (e.g., Qwen series) for complex visual-linguistic tasks.
     * **Reinforcement Learning:** Implementing and refining algorithms like GSPO, GRPO, and PPO for model alignment.
 
