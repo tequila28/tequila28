@@ -11,5 +11,6 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tequila28)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tequila28&theme=dark)](https://git.io/streak-stats)
+[!tequila's GitHub stats](https://github-readme-stats.vercel.app/api?username=tequila28)](https://github.com/anuraghazra/github-readme-stats)
 
