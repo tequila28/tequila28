@@ -5,8 +5,8 @@
 
 ## 🎓 Education
 
-![Peking University](https://img.shields.io/badge/Graduate-Peking%20University-red?style=flat-for-the-badge&logo=python&logoColor=white) 
-![BUPT](https://img.shields.io/badge/Undergraduate-Beijing%20University%20of%20Posts%20and%20Telecommunications-blue?style=flat-for-the-badge)
+![Peking University](https://img.shields.io/badge/Graduate-Peking%20University-red?style=for-the-badge&logo=pku&logoColor=white) 
+![BUPT](https://img.shields.io/badge/Undergraduate-Beijing%20University%20of%20Posts%20and%20Telecommunications-blue?style=for-the-badge)
 ---
 
 ## 🔍 Research Interests
