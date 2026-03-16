@@ -6,7 +6,7 @@
 ## 🎓 Education
 
 ![Peking University](https://img.shields.io/badge/Graduate-Peking%20University-red?style=flat-for-the-badge&logo=python&logoColor=white) 
-![Beijing University of Posts and Telecommunications](https://img.shields.io/badge/Undergraduate-BUPT-blue?style=flat-for-the-badge)
+![BUPT](https://img.shields.io/badge/Undergraduate-Beijing%20University%20of%20Posts%20and%20Telecommunications-blue?style=flat-for-the-badge)
 ---
 
 ## 🔍 Research Interests
