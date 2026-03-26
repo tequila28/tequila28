@@ -1,6 +1,4 @@
-# Hi, I'm JY Feng 😀👋
-
-![](https://komarev.com/ghpvc/?username=tequila28&color=blue&style=for-the-badge)
+# Hi, I'm JY Feng 😀👋 ![](https://komarev.com/ghpvc/?username=tequila28&color=blue&style=for-the-badge)
 
 
 ## 🎓 Education
@@ -15,10 +13,6 @@
 My research focuses on bridging the gap between perception and reasoning through advanced optimization techniques.
 
 * **🔭 Current Focus:** In particular, I focus on utilizing **Reinforcement Learning** to build sustained generalization learning capabilities for **Large Language Models (LLMs)**.
-* **🌱 Active Exploration:**
-    * **Scene Graph Generation:** Advancing end-to-end scene graph generation through post-training MLLMs.
-    * **Multimodal LLMs:** Optimizing MLLMs (e.g., Qwen series) for complex visual-linguistic tasks.
-    * **Reinforcement Learning:** Implementing and refining algorithms like GSPO, GRPO, and PPO for model alignment.
 
 
 ---
