@@ -27,4 +27,3 @@ My research focuses on bridging the gap between perception and reasoning through
 [![GitHub Streak](https://streak-stats.demolab.com?user=tequila28&theme=dark)](https://git.io/streak-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tequila28&layout=donut&size_weight=0.5&count_weight=0.5)
