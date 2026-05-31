@@ -40,23 +40,35 @@ Computer Vision, Semantic Segmentation
 
 <table>
   <tr>
-    <td width="50%" style="border-radius: 10px; padding: 20px; background-color: #f8f9fa;">
-      <h3>Large Language Models</h3>
-      <p>Training, optimization, alignment, reasoning, and generalization for LLM-based systems.</p>
+    <td width="50%">
+      <h3>🤖 Large Language Models</h3>
+      <p>
+        Training, alignment, reasoning, and generalization for
+        <strong>LLM-based intelligent systems</strong>.
+      </p>
     </td>
-    <td width="50%" style="border-radius: 10px; padding: 20px; background-color: #f8f9fa;">
-      <h3>Reinforcement Learning</h3>
-      <p>Using reward-driven learning to improve model behavior, decision-making, and long-horizon reasoning.</p>
+    <td width="50%">
+      <h3>🎯 Reinforcement Learning</h3>
+      <p>
+        Reward-driven learning for better
+        <strong>decision-making, exploration, and long-horizon reasoning</strong>.
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" style="border-radius: 10px; padding: 20px; background-color: #f8f9fa;">
-      <h3>Rejection Sampling Fine-Tuning</h3>
-      <p>Exploring practical post-training methods that improve model quality through selective sampling and refinement.</p>
+    <td width="50%">
+      <h3>🔁 Rejection Sampling Fine-Tuning</h3>
+      <p>
+        Post-training with selective sampling, preference refinement,
+        and scalable model improvement.
+      </p>
     </td>
-    <td width="50%" style="border-radius: 10px; padding: 20px; background-color: #f8f9fa;">
-      <h3>Multimodal Large Language Models</h3>
-      <p>Connecting visual perception with structured reasoning and language-based understanding.</p>
+    <td width="50%">
+      <h3>🌐 Multimodal Large Language Models</h3>
+      <p>
+        Connecting visual perception, language understanding,
+        and structured reasoning in multimodal systems.
+      </p>
     </td>
   </tr>
 </table>
