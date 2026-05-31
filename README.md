@@ -59,16 +59,6 @@ Computer Science and AI-related foundations
       <p>Connecting visual perception with structured reasoning and language-based understanding.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3>Scene Understanding</h3>
-      <p>Studying perception, relation modeling, and semantic understanding in complex visual scenes.</p>
-    </td>
-    <td width="50%">
-      <h3>Embodied Perception</h3>
-      <p>Building perception systems that support robust reasoning, interaction, and decision-making.</p>
-    </td>
-  </tr>
 </table>
 
 ## Tech Stack
@@ -99,14 +89,7 @@ Computer Science and AI-related foundations
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tequila28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="JY Feng's GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=tequila28&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tequila28&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
