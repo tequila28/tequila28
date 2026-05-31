@@ -36,63 +36,25 @@ Reinforcement Learning, Large Language Models, Self-Evolution, Multimodal Models
 **Undergraduate**, Beijing University of Posts and Telecommunications  
 Computer Vision, Semantic Segmentation
 
-<style>
-/* 美化表格，移除默认边框和边距 */
-.interests-table {
-  width: 100%;
-  border-collapse: separate;
-  border-spacing: 20px; /* 单元格之间的间距 */
-  margin-top: 1rem;
-}
-/* 为每个单元格（兴趣卡）设置样式 */
-.interest-cell {
-  background: #ffffff;
-  border-radius: 12px;
-  padding: 1.8rem;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-  border: 1px solid #f0f0f0;
-  vertical-align: top; /* 内容顶部对齐 */
-  transition: all 0.3s ease; /* 添加悬停动画 */
-}
-/* 添加鼠标悬停效果，更显交互感 */
-.interest-cell:hover {
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
-  transform: translateY(-3px);
-  border-color: #d0ebff;
-}
-/* 美化标题 */
-.interest-cell h3 {
-  margin-top: 0;
-  margin-bottom: 0.8rem;
-  color: #1a1a1a;
-  font-size: 1.3rem;
-}
-/* 美化描述文字 */
-.interest-cell p {
-  color: #555;
-  line-height: 1.6;
-  margin-bottom: 0;
-}
-</style>
+## Interests
 
-<h2>Interests</h2>
-<table class="interests-table">
+<table>
   <tr>
-    <td class="interest-cell">
+    <td width="50%" style="border-radius: 10px; padding: 20px; background-color: #f8f9fa;">
       <h3>Large Language Models</h3>
       <p>Training, optimization, alignment, reasoning, and generalization for LLM-based systems.</p>
     </td>
-    <td class="interest-cell">
+    <td width="50%" style="border-radius: 10px; padding: 20px; background-color: #f8f9fa;">
       <h3>Reinforcement Learning</h3>
       <p>Using reward-driven learning to improve model behavior, decision-making, and long-horizon reasoning.</p>
     </td>
   </tr>
   <tr>
-    <td class="interest-cell">
+    <td width="50%" style="border-radius: 10px; padding: 20px; background-color: #f8f9fa;">
       <h3>Rejection Sampling Fine-Tuning</h3>
       <p>Exploring practical post-training methods that improve model quality through selective sampling and refinement.</p>
     </td>
-    <td class="interest-cell">
+    <td width="50%" style="border-radius: 10px; padding: 20px; background-color: #f8f9fa;">
       <h3>Multimodal Large Language Models</h3>
       <p>Connecting visual perception with structured reasoning and language-based understanding.</p>
     </td>
