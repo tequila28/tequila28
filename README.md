@@ -4,6 +4,9 @@
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=tequila28&color=blue&style=for-the-badge" alt="Profile views" />
+    <a href="https://tequila28.github.io/">
+      <img src="https://img.shields.io/badge/Homepage-tequila28.github.io-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage" />
+    </a>
     <a href="mailto:fengjy75@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
@@ -18,7 +21,7 @@
 
 Hi, I'm **JY Feng**. I am interested in building intelligent systems that connect **perception**, **reasoning**, and **decision-making**.
 
-My current focus is on **Large Language Models**, **Reinforcement Learning**, and **multimodal AI**, especially methods that help models learn more robust, generalizable reasoning abilities.
+My current focus is on **Large Language Models**, **Reinforcement Learning**, **Rejection Sampling Fine-Tuning**, **Multimodal Large Language Models**, and **scene-level perception and understanding**.
 
 ## Education
 
@@ -27,10 +30,11 @@ My current focus is on **Large Language Models**, **Reinforcement Learning**, an
   <img src="https://img.shields.io/badge/Undergraduate-BUPT-2563EB?style=for-the-badge" alt="BUPT" />
 </p>
 
-| Stage | University | Focus |
-| --- | --- | --- |
-| Graduate | Peking University | Artificial Intelligence, LLMs, Reinforcement Learning |
-| Undergraduate | Beijing University of Posts and Telecommunications | Computer Science / AI-related foundations |
+**Graduate Student**, Peking University  
+Artificial Intelligence, Large Language Models, Reinforcement Learning
+
+**Undergraduate**, Beijing University of Posts and Telecommunications  
+Computer Science and AI-related foundations
 
 ## Interests
 
@@ -47,12 +51,22 @@ My current focus is on **Large Language Models**, **Reinforcement Learning**, an
   </tr>
   <tr>
     <td width="50%">
-      <h3>Multimodal Intelligence</h3>
-      <p>Connecting visual perception with structured reasoning and language-based understanding.</p>
+      <h3>Rejection Sampling Fine-Tuning</h3>
+      <p>Exploring practical post-training methods that improve model quality through selective sampling and refinement.</p>
     </td>
     <td width="50%">
-      <h3>Optimization</h3>
-      <p>Designing practical learning strategies for efficient, stable, and scalable model improvement.</p>
+      <h3>Multimodal Large Language Models</h3>
+      <p>Connecting visual perception with structured reasoning and language-based understanding.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Scene Understanding</h3>
+      <p>Studying perception, relation modeling, and semantic understanding in complex visual scenes.</p>
+    </td>
+    <td width="50%">
+      <h3>Embodied Perception</h3>
+      <p>Building perception systems that support robust reasoning, interaction, and decision-making.</p>
     </td>
   </tr>
 </table>
@@ -63,16 +77,22 @@ My current focus is on **Large Language Models**, **Reinforcement Learning**, an
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/vLLM-111827?style=for-the-badge" alt="vLLM" />
+  <img src="https://img.shields.io/badge/TRL-FFB000?style=for-the-badge" alt="TRL" />
+  <img src="https://img.shields.io/badge/verl-0F766E?style=for-the-badge" alt="verl" />
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-2563EB?style=for-the-badge" alt="Reinforcement Learning" />
   <img src="https://img.shields.io/badge/LLM-0EA5E9?style=for-the-badge" alt="LLM" />
   <img src="https://img.shields.io/badge/Multimodal%20AI-7C3AED?style=for-the-badge" alt="Multimodal AI" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
 ## What I Care About
 
 - Making language models reason better, not just predict the next token.
 - Building learning pipelines that are efficient, stable, and reproducible.
-- Exploring how reinforcement learning can improve generalization in intelligent agents.
+- Exploring how reinforcement learning and rejection sampling fine-tuning can improve generalization in intelligent agents.
+- Connecting multimodal large language models with scene understanding and visual perception.
 - Turning research ideas into clean, useful implementations.
 
 ## GitHub
@@ -89,14 +109,6 @@ My current focus is on **Large Language Models**, **Reinforcement Learning**, an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tequila28&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
-
-## Connect
-
-<p>
-  <a href="mailto:fengjy75@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fengjy75%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 <div align="center">
 
