@@ -31,10 +31,10 @@ My current focus is on **Large Language Models**, **Reinforcement Learning**, **
 </p>
 
 **Graduate Student**, Peking University  
-Artificial Intelligence, Large Language Models, Reinforcement Learning
+Reinforcement Learning, Large Language Models, Self-Evolution, Multimodal Models
 
 **Undergraduate**, Beijing University of Posts and Telecommunications  
-Computer Science and AI-related foundations
+Computer Vision, Semantic Segmentation
 
 ## Interests
 
