@@ -38,40 +38,7 @@ Computer Vision, Semantic Segmentation
 
 ## Interests
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 Large Language Models</h3>
-      <p>
-        Training, alignment, reasoning, and generalization for
-        <strong>LLM-based intelligent systems</strong>.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🎯 Reinforcement Learning</h3>
-      <p>
-        Reward-driven learning for better
-        <strong>decision-making, exploration, and long-horizon reasoning</strong>.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔁 Rejection Sampling Fine-Tuning</h3>
-      <p>
-        Post-training with selective sampling, preference refinement,
-        and scalable model improvement.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🌐 Multimodal Large Language Models</h3>
-      <p>
-        Connecting visual perception, language understanding,
-        and structured reasoning in multimodal systems.
-      </p>
-    </td>
-  </tr>
-</table>
+I am especially excited about **simple, general, and scalable post-training methods** for improving intelligent systems, including reinforcement learning, rejection sampling fine-tuning, efficient learning pipelines, multimodal reasoning, and clean implementations that turn research ideas into useful systems.
 
 ## Tech Stack
 
@@ -88,14 +55,6 @@ Computer Vision, Semantic Segmentation
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
-
-## What I Care About
-
-- Making language models reason better, not just predict the next token.
-- Building learning pipelines that are efficient, stable, and reproducible.
-- Exploring how reinforcement learning and rejection sampling fine-tuning can improve generalization in intelligent agents.
-- Connecting multimodal large language models with scene understanding and visual perception.
-- Turning research ideas into clean, useful implementations.
 
 ## GitHub
 
