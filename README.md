@@ -50,17 +50,3 @@ Computer Vision, Semantic Segmentation
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
-
-## GitHub
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=tequila28&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1D4ED8,50:2563EB,100:0EA5E9" alt="Footer" />
-
-</div>
