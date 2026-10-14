@@ -19,9 +19,7 @@
 
 ## About Me
 
-Hi, I'm **JY Feng**. I am interested in building intelligent systems that connect **perception**, **reasoning**, and **decision-making**.
-
-My current focus is on **Large Language Models**, **Reinforcement Learning**, **Rejection Sampling Fine-Tuning**, **Multimodal Large Language Models**, and **scene-level perception and understanding**.
+Hi, I'm **JY Feng**. I am especially excited about **simple, general, and scalable post-training methods** for improving intelligent systems, including reinforcement learning, rejection sampling fine-tuning, efficient learning pipelines and clean implementations that turn research ideas into useful systems.
 
 ## Education
 
@@ -36,9 +34,6 @@ Reinforcement Learning, Large Language Models, Self-Evolution, Multimodal Models
 **Undergraduate**, Beijing University of Posts and Telecommunications  
 Computer Vision, Semantic Segmentation
 
-## Interests
-
-I am especially excited about **simple, general, and scalable post-training methods** for improving intelligent systems, including reinforcement learning, rejection sampling fine-tuning, efficient learning pipelines, multimodal reasoning, and clean implementations that turn research ideas into useful systems.
 
 ## Tech Stack
 
