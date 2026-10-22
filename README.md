@@ -29,6 +29,6 @@ I'm **JY Feng**. My interests center on **large language models, multimodal mode
 
 | Category | Focus |
 | --- | --- |
-| **Programming languages** | Python · C · Java · Bash |
-| **Frameworks & systems** | PyTorch · Transformers · NumPy · Matplotlib · TRL · verl · vLLM |
-| **Research & methods** | Large Language Models · Multimodal AI · Agents · Reinforcement Learning · PPO · GRPO |
+| **Programming languages** | Python · C · Java · JavaScript |
+| **Frameworks & systems** | PyTorch · verl · TRL · vLLM · DeepSpeed · SGLang · FSDP |
+| **Research & algorithms** | SFT · PPO · Distillation · GRPO · GDPO · GSPO · DAPO · OPD |
