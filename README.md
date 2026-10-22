@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,55:2563EB,100:1D4ED8&text=Hi,%20I'm%20JY%20Feng&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=LLMs%20%7C%20Multimodal%20Models%20%7C%20Agents%20%7C%20Scalable%20RL&descAlignY=58&descSize=18" alt="Hi, I'm JY Feng — LLMs, Multimodal Models, Agents, and Scalable RL" />
 
   <p>
+    <img src="https://komarev.com/ghpvc/?username=tequila28&color=blue&style=for-the-badge" alt="Profile views" />
     <a href="https://tequila28.github.io/">
       <img src="https://img.shields.io/badge/Homepage-tequila28.github.io-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage" />
     </a>
@@ -24,13 +25,10 @@ I'm **JY Feng**. My interests center on **large language models, multimodal mode
 - **Agents** — learning to act and adapt across multi-step tasks.
 - **Reinforcement Learning** — simple, effective, and scalable learning from feedback.
 
-## Featured Project
-
-### [Foundations of RL Learning from Scratch](https://github.com/tequila28/Foundations-of-RL-Learning)
-
-An implementation-driven path through classical reinforcement learning, from a GridWorld environment and Bellman equations to policy gradients and Actor-Critic. Chapter-by-chapter explanations and visualizations make the core ideas easier to inspect and extend toward LLM reinforcement learning.
-
 ## Tools
 
-**Core:** Python · PyTorch · Transformers  
-**Training & inference:** TRL · verl · vLLM
+| Category | Focus |
+| --- | --- |
+| **Programming languages** | Python · C · Java · Bash |
+| **Frameworks & systems** | PyTorch · Transformers · NumPy · Matplotlib · TRL · verl · vLLM |
+| **Research & methods** | Large Language Models · Multimodal AI · Agents · Reinforcement Learning · PPO · GRPO |
