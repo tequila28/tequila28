@@ -1,52 +1,36 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,55:2563EB,100:1D4ED8&text=Hi,%20I'm%20JY%20Feng&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=LLM%20%7C%20Reinforcement%20Learning%20%7C%20Multimodal%20Reasoning&descAlignY=58&descSize=18" alt="Hi, I'm JY Feng" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,55:2563EB,100:1D4ED8&text=Hi,%20I'm%20JY%20Feng&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=LLMs%20%7C%20Multimodal%20Models%20%7C%20Agents%20%7C%20Scalable%20RL&descAlignY=58&descSize=18" alt="Hi, I'm JY Feng — LLMs, Multimodal Models, Agents, and Scalable RL" />
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=tequila28&color=blue&style=for-the-badge" alt="Profile views" />
     <a href="https://tequila28.github.io/">
       <img src="https://img.shields.io/badge/Homepage-tequila28.github.io-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage" />
     </a>
     <a href="mailto:fengjy75@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://github.com/tequila28">
-      <img src="https://img.shields.io/badge/GitHub-tequila28-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Email-fengjy75%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
 </div>
 
-## About Me
+## About
 
-Hi, I'm **JY Feng**. I am especially excited about **simple, general, and scalable post-training methods** for improving intelligent systems, including reinforcement learning, rejection sampling fine-tuning, efficient learning pipelines and clean implementations that turn research ideas into useful systems.
+I'm **JY Feng**. My interests center on **large language models, multimodal models, and agents**. I explore **simple, effective, and scalable reinforcement learning methods** for improving how these systems reason, learn from feedback, and make decisions.
 
-## Education
+## Research Focus
 
-<p>
-  <img src="https://img.shields.io/badge/Graduate-Peking%20University-C41230?style=for-the-badge" alt="Peking University" />
-  <img src="https://img.shields.io/badge/Undergraduate-BUPT-2563EB?style=for-the-badge" alt="BUPT" />
-</p>
+- **Large Language Models** — reasoning and post-training.
+- **Multimodal Models** — connecting perception, language, and decision-making.
+- **Agents** — learning to act and adapt across multi-step tasks.
+- **Reinforcement Learning** — simple, effective, and scalable learning from feedback.
 
-**Graduate Student**, Peking University  
-Reinforcement Learning, Large Language Models, Self-Evolution, Multimodal Models
+## Featured Project
 
-**Undergraduate**, Beijing University of Posts and Telecommunications  
-Computer Vision, Semantic Segmentation
+### [Foundations of RL Learning from Scratch](https://github.com/tequila28/Foundations-of-RL-Learning)
 
+An implementation-driven path through classical reinforcement learning, from a GridWorld environment and Bellman equations to policy gradients and Actor-Critic. Chapter-by-chapter explanations and visualizations make the core ideas easier to inspect and extend toward LLM reinforcement learning.
 
-## Tech Stack
+## Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
-  <img src="https://img.shields.io/badge/vLLM-111827?style=for-the-badge" alt="vLLM" />
-  <img src="https://img.shields.io/badge/TRL-FFB000?style=for-the-badge" alt="TRL" />
-  <img src="https://img.shields.io/badge/verl-0F766E?style=for-the-badge" alt="verl" />
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-2563EB?style=for-the-badge" alt="Reinforcement Learning" />
-  <img src="https://img.shields.io/badge/LLM-0EA5E9?style=for-the-badge" alt="LLM" />
-  <img src="https://img.shields.io/badge/Multimodal%20AI-7C3AED?style=for-the-badge" alt="Multimodal AI" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
+**Core:** Python · PyTorch · Transformers  
+**Training & inference:** TRL · verl · vLLM
